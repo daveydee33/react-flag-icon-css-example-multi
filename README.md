@@ -20,7 +20,7 @@ Previous versions:
 Clone the repository:
 
 ```bash
-$ git clone https://github.com/matteocng/react-flag-icon-css-example-multi-example-multi.git
+$ git clone https://github.com/matteocng/react-flag-icon-css-example-multi.git
 $ cd react-flag-icon-css-example-multi-example-multi
 ```
 
